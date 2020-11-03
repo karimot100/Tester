@@ -1,0 +1,72 @@
+ #bookpic {
+    height: 500px;
+    width: 500px;
+    border-style: outset;
+}
+
+figcaption {
+    color: black;
+    font-family: helvatica;
+}
+
+.atb {
+    font-family: helvatica;
+ background-color: rgb(107, 18, 18);
+ color: white;
+ 
+}
+
+.ptb {
+    
+    
+}
+
+#ata {
+    color: brown;
+    
+}
+
+
+.gro {
+    color: brown;
+}
+
+.acw {
+    color: brown;
+}
+
+#email {
+    color : brown;
+} 
+
+#bamb {
+    color: brown;
+}
+    
+footer {
+    background-color: rgb(107, 18, 18);
+    text-align: center;
+
+}
+.footer {
+    
+    color: white;
+    
+    font-weight: bold;
+}
+
+.footi {
+    color: white;
+    font-weight: bold;
+}
+
+#onaivi {
+    width: 500;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+#faf {
+    padding-bottom: 20px;
+}
+
